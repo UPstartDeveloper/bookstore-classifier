@@ -12,4 +12,4 @@ To access the slide deck for this project, [click here.](https://docs.google.com
 [Data on Amazon and Flipkart books was found in this notebook on Kaggle, posted by mandan](https://www.kaggle.com/mandan/amazon-vs-flipkart-book-prices).
 
 ## The Notebook
-To access the Jupyter notebook of my findings, [please click visit classifications.ipynb](classifications.ipynb).
+To access the Jupyter notebook of my findings, [please click visit classifications.ipynb](https://nbviewer.jupyter.org/github/UPstartDeveloper/bookstore-classifier/blob/master/classifications.ipynb).
